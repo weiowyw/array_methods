@@ -32,5 +32,3 @@
 // const result = arr.filter(item => item.length > 5);
 //
 // console.log(result);
-
-
